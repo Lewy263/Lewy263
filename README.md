@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lewy263
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Flutter for mobile development
+- 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me karumazondotinashelewis@gmail.com
 

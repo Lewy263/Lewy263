@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lewy263
+- 👋 Hi, I’m Tinashe Lewis Karumazondo
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning mobile development
 - 💞️ I’m looking to collaborate on Web Applications

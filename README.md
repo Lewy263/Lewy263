@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -25,12 +26,14 @@
 ### 📫 Connect With Me
 - ✉️ Email: [tinashe@rnhope.co.za](mailto:tinashe@rnhope.co.za)  
 - 📱 WhatsApp / Call: [+263 773 444 053](https://wa.me/263773444053)  
+- 🔗 LinkedIn: [Tinashe Lewis Karumazondo](https://www.linkedin.com/in/tinashe-lewis-karumazondo-642254185/)
 
 ---
 
 ### ⚡ Fun Fact
-> "I believe **good code is like a good story** — it’s clean, easy to follow, and leaves an impact!" 😄
+> "I believe **good code is like a good story** — it’s clean, easy to follow, and leaves an impact!" 😄  
 
+**Don't forget:** Code is like humor. When you have to explain it, it’s bad. 😄
 
 <!---
 Lewy263/Lewy263 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
